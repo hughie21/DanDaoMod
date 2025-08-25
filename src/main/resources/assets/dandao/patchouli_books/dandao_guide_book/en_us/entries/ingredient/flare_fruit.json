@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.flare_fruit.name",
+  "icon": "dandao:flare_fruit",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.flare_fruit.text"
+    }
+  ]
+}

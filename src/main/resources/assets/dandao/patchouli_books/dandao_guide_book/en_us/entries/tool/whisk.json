@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.whisk.name",
+  "icon": "dandao:whisk",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.whisk.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:whisk"
+    }
+  ]
+}

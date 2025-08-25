@@ -1,0 +1,12 @@
+
+{
+  "name": "patchouli.dandao.book.entry.ground_moss.name",
+  "icon": "dandao:ground_moss",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.ground_moss.text"
+    }
+  ]
+}

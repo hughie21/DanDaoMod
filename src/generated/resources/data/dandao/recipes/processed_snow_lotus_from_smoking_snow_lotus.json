@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 300,
+  "experience": 0.45,
+  "group": "processed_herbs",
+  "ingredient": {
+    "item": "dandao:snow_lotus"
+  },
+  "result": "dandao:processed_snow_lotus"
+}

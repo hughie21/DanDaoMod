@@ -1,0 +1,27 @@
+{
+  "name": "patchouli.dandao.book.entry.taoist_robe.name",
+  "icon": "dandao:taoist_robe_chestplate",
+  "category": "dandao:other",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.taoist_robe.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:taoist_robe_helmet"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:taoist_robe_chestplate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:taoist_robe_leggings"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:taoist_robe_boots"
+    }
+  ]
+}

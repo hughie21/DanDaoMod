@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:string"
+    },
+    "C": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "pattern": [
+    "CBC",
+    "CBC",
+    " A "
+  ],
+  "result": {
+    "item": "dandao:incense_stick"
+  },
+  "show_notification": true
+}

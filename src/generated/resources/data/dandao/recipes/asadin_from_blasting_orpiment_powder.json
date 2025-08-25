@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 0.5,
+  "group": "asadin",
+  "ingredient": {
+    "item": "dandao:orpiment_powder"
+  },
+  "result": "dandao:asadin"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.jiu_si_po_yuan_dan.name",
+  "icon": "dandao:jiu_si_po_yuan_dan",
+  "category": "dandao:large_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.jiu_si_po_yuan_dan.text"
+    },
+    {
+      "type": "alchemy_furnace_recipe",
+      "recipe_id": "dandao:jiu_si_po_yuan_dan_from_alchemy_furnace"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.orpiment.name",
+  "icon": "dandao:orpiment",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.orpiment.text"
+    }
+  ]
+}

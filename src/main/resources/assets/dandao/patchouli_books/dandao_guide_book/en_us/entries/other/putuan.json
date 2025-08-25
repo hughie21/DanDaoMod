@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.putuan.name",
+  "icon": "dandao:putuan",
+  "category": "dandao:other",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.putuan.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:putuan"
+    }
+  ]
+}

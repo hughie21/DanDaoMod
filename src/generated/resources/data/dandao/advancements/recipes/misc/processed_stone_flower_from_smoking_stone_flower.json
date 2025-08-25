@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stone_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:stone_flower"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:processed_stone_flower_from_smoking_stone_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_stone_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:processed_stone_flower_from_smoking_stone_flower"
+    ]
+  },
+  "sends_telemetry_event": false
+}

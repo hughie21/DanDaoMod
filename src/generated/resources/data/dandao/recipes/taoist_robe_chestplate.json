@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "dandao:spirit_stone"
+    },
+    "B": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "pattern": [
+    "B B",
+    "BAB",
+    "BBB"
+  ],
+  "result": {
+    "item": "dandao:taoist_robe_chestplate"
+  },
+  "show_notification": true
+}

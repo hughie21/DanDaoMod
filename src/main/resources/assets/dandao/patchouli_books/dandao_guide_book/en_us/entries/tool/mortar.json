@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.mortar.name",
+  "icon": "dandao:mortar",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.mortar.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:mortar"
+    }
+  ]
+}

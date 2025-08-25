@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.ji_yun_dan.name",
+  "icon": "dandao:ji_yun_dan",
+  "category": "dandao:large_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.ji_yun_dan.text"
+    },
+    {
+      "type": "alchemy_furnace_recipe",
+      "recipe_id": "dandao:ji_yun_dan_from_alchemy_furnace"
+    }
+  ]
+}

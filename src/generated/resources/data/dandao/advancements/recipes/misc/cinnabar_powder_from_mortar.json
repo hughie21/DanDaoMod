@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cinnabar": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:cinnabar"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:cinnabar_powder_from_mortar"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_cinnabar",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:cinnabar_powder_from_mortar"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dandao",
+  "key": {
+    "#": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "###",
+    "   ",
+    "###"
+  ],
+  "result": {
+    "item": "dandao:kneading_board"
+  },
+  "show_notification": true
+}

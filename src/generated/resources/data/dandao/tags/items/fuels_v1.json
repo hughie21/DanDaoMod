@@ -1,0 +1,25 @@
+{
+  "values": [
+    "#minecraft:wool_carpets",
+    "minecraft:scaffolding",
+    "minecraft:bamboo",
+    "#minecraft:wooden_doors",
+    "#minecraft:signs",
+    "minecraft:wooden_sword",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_hoe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_shovel",
+    "minecraft:bamboo_door",
+    "minecraft:bamboo_sign",
+    "minecraft:azalea",
+    "#minecraft:wool",
+    "minecraft:stick",
+    "#minecraft:saplings",
+    "minecraft:bowl",
+    "#minecraft:buttons",
+    "#minecraft:wooden_slabs",
+    "minecraft:bamboo_slab",
+    "minecraft:bamboo_mosaic_slab"
+  ]
+}

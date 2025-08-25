@@ -1,0 +1,7 @@
+{
+  "parent": "dandao:block/crop_cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "crop": "dandao:block/snow_ginseng_stage0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_realgar_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:realgar_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:realgar_from_blasting_realgar_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_realgar_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:realgar_from_blasting_realgar_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

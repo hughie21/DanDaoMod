@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dandao",
+  "key": {
+    "#": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "dandao:putuan"
+  },
+  "show_notification": true
+}

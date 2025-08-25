@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.incense_stick.name",
+  "icon": "dandao:incense_stick",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.incense_stick.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:incense_stick"
+    }
+  ]
+}

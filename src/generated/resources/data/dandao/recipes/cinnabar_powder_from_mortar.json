@@ -1,0 +1,12 @@
+{
+  "type": "dandao:mortar_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:cinnabar"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "dandao:cinnabar_powder"
+  }
+}

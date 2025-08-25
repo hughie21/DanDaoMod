@@ -1,0 +1,38 @@
+{
+  "grind_medicine": {
+    "subtitle": "sounds.dandao.grind_medicine",
+    "sounds": [
+      "dandao:grind_medicine"
+    ]
+  },
+  "open_furnace": {
+    "subtitle": "sounds.dandao.open_furnace",
+    "sounds": [
+      "dandao:open_furnace"
+    ]
+  },
+  "close_furnace": {
+    "subtitle": "sounds.dandao.close_furnace",
+    "sounds": [
+      "dandao:close_furnace"
+    ]
+  },
+  "taking_medication": {
+    "subtitle": "sounds.dandao.taking_medication",
+    "sounds": [
+      "dandao:taking_medication"
+    ]
+  },
+  "empty_sound": {
+    "subtitle": "sounds.dandao.empty_sound",
+    "sounds": [
+      "dandao:empty_sound"
+    ]
+  },
+  "bamboo_sieve_shake": {
+    "subtitle": "sounds.dandao.bamboo_sieve_shake",
+    "sounds": [
+      "dandao:bamboo_sieve_shake"
+    ]
+  }
+}

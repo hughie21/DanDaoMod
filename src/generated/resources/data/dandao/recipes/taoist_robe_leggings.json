@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "B B",
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "item": "dandao:taoist_robe_leggings"
+  },
+  "show_notification": true
+}

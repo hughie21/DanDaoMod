@@ -1,0 +1,20 @@
+{
+  "type": "dandao:alchemy_furnace_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:dan_embryo"
+    }
+  ],
+  "medicinal_properties": {
+    "cool": {
+      "heat": 1,
+      "max": 7,
+      "min": 5,
+      "time": 3.0
+    }
+  },
+  "output": {
+    "count": 1,
+    "item": "dandao:ju_ling_dan"
+  }
+}

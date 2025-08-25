@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sun_leaf": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:sun_leaf"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:processed_sun_leaf_from_smoking_sun_leaf"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_sun_leaf",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:processed_sun_leaf_from_smoking_sun_leaf"
+    ]
+  },
+  "sends_telemetry_event": false
+}

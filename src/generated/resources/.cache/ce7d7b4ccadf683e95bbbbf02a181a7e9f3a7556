@@ -1,0 +1,4 @@
+// 1.20.1	2025-08-18T21:52:09.338403	Tags for minecraft:block mod id dandao
+1b5da33b05cc09f8ac00088b7aea03c174f251c4 data/minecraft/tags/blocks/mineable/pickaxe.json
+b51b3b852964906175b48e4f6dad888d54073001 data/minecraft/tags/blocks/needs_iron_tool.json
+164081c5d3afcc9a59d419430e69eb99d0251b1a data/minecraft/tags/blocks/needs_stone_tool.json

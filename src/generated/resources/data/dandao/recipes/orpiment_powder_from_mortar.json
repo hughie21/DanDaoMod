@@ -1,0 +1,12 @@
+{
+  "type": "dandao:mortar_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:orpiment_powder"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "dandao:orpiment_powder"
+  }
+}

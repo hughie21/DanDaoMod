@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.kneading_board.name",
+  "icon": "dandao:kneading_board",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.kneading_board.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:kneading_board"
+    }
+  ]
+}

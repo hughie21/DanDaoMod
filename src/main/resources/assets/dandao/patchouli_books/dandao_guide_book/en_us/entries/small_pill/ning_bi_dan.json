@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.ning_bi_dan.name",
+  "icon": "dandao:ning_bi_dan",
+  "category": "dandao:small_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.ning_bi_dan.text"
+    },
+    {
+      "type": "bamboo_sieve_recipe",
+      "recipe_id": "dandao:ning_bi_dan_from_bamboo_sieve"
+    }
+  ]
+}

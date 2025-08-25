@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.ginseng.name",
+  "icon": "dandao:ginseng",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.ginseng.text"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "dandao:mortar_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "dandao:coal_powder"
+  }
+}

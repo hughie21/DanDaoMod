@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.herbalist.name",
+  "icon": "minecraft:villager_spawn_egg",
+  "category": "dandao:other",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.herbalist.text"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.heat.name",
+  "icon": "minecraft:lava_bucket",
+  "category": "dandao:alchemy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.heat.text"
+    }
+  ]
+}

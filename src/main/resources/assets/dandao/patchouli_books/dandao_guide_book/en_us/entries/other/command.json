@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.command.name",
+  "icon": "minecraft:command_block",
+  "category": "dandao:other",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.command.text"
+    }
+  ]
+}

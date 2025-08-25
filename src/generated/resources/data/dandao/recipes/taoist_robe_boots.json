@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "B B",
+    "B B"
+  ],
+  "result": {
+    "item": "dandao:taoist_robe_boots"
+  },
+  "show_notification": true
+}

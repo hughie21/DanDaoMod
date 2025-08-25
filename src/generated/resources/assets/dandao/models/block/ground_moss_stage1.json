@@ -1,0 +1,8 @@
+{
+  "parent": "dandao:block/block_crop",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "crop": "dandao:block/ground_moss_stage1",
+    "crop_side": "dandao:block/ground_moss_side"
+  }
+}

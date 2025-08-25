@@ -1,0 +1,20 @@
+{
+  "type": "dandao:bamboo_sieve_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:medicinal_powder"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "medicinal_properties": {
+    "hot": {
+      "level": 2
+    }
+  },
+  "output": {
+    "count": 1,
+    "item": "dandao:sui_xing_dan"
+  }
+}

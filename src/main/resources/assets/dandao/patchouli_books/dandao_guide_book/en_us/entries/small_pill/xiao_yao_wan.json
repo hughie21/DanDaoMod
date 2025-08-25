@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.xiao_yao_wan.name",
+  "icon": "dandao:xiao_yao_wan",
+  "category": "dandao:small_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.xiao_yao_wan.text"
+    },
+    {
+      "type": "bamboo_sieve_recipe",
+      "recipe_id": "dandao:xiao_yao_wan_from_bamboo_sieve"
+    }
+  ]
+}

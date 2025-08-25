@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:grove",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga"
+  ],
+  "features": "dandao:snow_ginseng_placed",
+  "step": "vegetal_decoration"
+}

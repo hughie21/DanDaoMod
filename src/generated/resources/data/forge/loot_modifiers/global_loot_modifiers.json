@@ -1,0 +1,17 @@
+{
+  "entries": [
+    "dandao:spirit_stone_from_ancient_city",
+    "dandao:blood_berry_seeds_from_jungle_temples",
+    "dandao:ginseng_seeds_from_jungle_temples",
+    "dandao:sun_leaf_from_nether_bridge",
+    "dandao:stone_flower_from_ancient_city",
+    "dandao:ground_moss_from_abandoned_mineshaft",
+    "dandao:spirit_stone_from_buried_treasure",
+    "dandao:snow_lotus_from_igloo",
+    "dandao:snow_ginseng_from_igloo",
+    "dandao:stone_flower_from_abandoned_mineshaft",
+    "dandao:ground_moss_from_ancient_city",
+    "dandao:flare_fruit_from_nether_bridge"
+  ],
+  "replace": false
+}

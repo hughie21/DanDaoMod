@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.hui_chun_dan.name",
+  "icon": "dandao:hui_chun_dan",
+  "category": "dandao:large_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.hui_chun_dan.text"
+    },
+    {
+      "type": "alchemy_furnace_recipe",
+      "recipe_id": "dandao:hui_chun_dan_from_alchemy_furnace"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dandao",
+  "key": {
+    "A": {
+      "item": "minecraft:obsidian"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "dandao:spirit_stone"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "BCB",
+    "ACA"
+  ],
+  "result": {
+    "item": "dandao:reactor"
+  },
+  "show_notification": true
+}

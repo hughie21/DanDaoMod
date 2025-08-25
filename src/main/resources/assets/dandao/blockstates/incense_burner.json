@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "count=0": { "model": "dandao:block/incense_burner_base" },
+    "count=1,burning_stage=0": {"model": "dandao:block/incense_burner_1_0"},
+    "count=1,burning_stage=1": {"model": "dandao:block/incense_burner_1_1"},
+    "count=1,burning_stage=2": {"model": "dandao:block/incense_burner_1_2"},
+    "count=2,burning_stage=0": {"model": "dandao:block/incense_burner_2_0"},
+    "count=2,burning_stage=1": {"model": "dandao:block/incense_burner_2_1"},
+    "count=2,burning_stage=2": {"model": "dandao:block/incense_burner_2_2"},
+    "count=3,burning_stage=0": {"model": "dandao:block/incense_burner_3_0"},
+    "count=3,burning_stage=1": {"model": "dandao:block/incense_burner_3_1"},
+    "count=3,burning_stage=2": {"model": "dandao:block/incense_burner_3_2"}
+  }
+}

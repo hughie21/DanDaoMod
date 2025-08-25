@@ -1,0 +1,12 @@
+
+{
+  "name": "patchouli.dandao.book.entry.sun_flower.name",
+  "icon": "dandao:sun_leaf",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.sun_flower.text"
+    }
+  ]
+}

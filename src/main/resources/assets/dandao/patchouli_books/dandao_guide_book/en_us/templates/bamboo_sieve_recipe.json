@@ -1,0 +1,33 @@
+{
+  "processor": "com.hughie.dandao.common.compat.patchouli.BambooSieveRecipeComponent",
+  "components": [
+    {
+      "type": "patchouli:image",
+      "image": "dandao:textures/gui/bamboo_sieve_gui.png",
+      "width": 113,
+      "height": 57,
+      "u": 33,
+      "v": 8,
+      "x": 0,
+      "y": 30
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#input",
+      "x": 11,
+      "y": 61
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#side_input",
+      "x": 46,
+      "y": 36
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output",
+      "x": 85,
+      "y": 60
+    }
+  ]
+}

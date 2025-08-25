@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.ju_ling_dan.name",
+  "icon": "dandao:ju_ling_dan",
+  "category": "dandao:large_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.ju_ling_dan.text"
+    },
+    {
+      "type": "alchemy_furnace_recipe",
+      "recipe_id": "dandao:ju_ling_dan_from_alchemy_furnace"
+    }
+  ]
+}

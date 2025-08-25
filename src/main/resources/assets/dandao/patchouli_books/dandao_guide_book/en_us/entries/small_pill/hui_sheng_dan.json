@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.hui_sheng_dan.name",
+  "icon": "dandao:hui_sheng_dan",
+  "category": "dandao:small_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.hui_sheng_dan.text"
+    },
+    {
+      "type": "bamboo_sieve_recipe",
+      "recipe_id": "dandao:hui_sheng_dan_from_bamboo_sieve"
+    }
+  ]
+}

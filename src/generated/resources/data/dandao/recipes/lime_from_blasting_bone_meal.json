@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.25,
+  "group": "lime",
+  "ingredient": {
+    "item": "minecraft:bone_meal"
+  },
+  "result": "dandao:lime"
+}

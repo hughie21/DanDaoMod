@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.long_li_dan.name",
+  "icon": "dandao:long_li_dan",
+  "category": "dandao:large_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.long_li_dan.text"
+    },
+    {
+      "type": "alchemy_furnace_recipe",
+      "recipe_id": "dandao:long_li_dan_from_alchemy_furnace"
+    }
+  ]
+}

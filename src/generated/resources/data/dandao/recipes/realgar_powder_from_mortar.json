@@ -1,0 +1,12 @@
+{
+  "type": "dandao:mortar_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:realgar"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "dandao:realgar_powder"
+  }
+}

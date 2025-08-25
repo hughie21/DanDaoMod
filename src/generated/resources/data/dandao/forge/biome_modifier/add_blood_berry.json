@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:desert"
+  ],
+  "features": "dandao:blood_berry_placed",
+  "step": "vegetal_decoration"
+}

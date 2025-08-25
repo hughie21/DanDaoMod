@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.cooling.name",
+  "icon": "minecraft:powder_snow_bucket",
+  "category": "dandao:alchemy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.cooling.text"
+    }
+  ]
+}

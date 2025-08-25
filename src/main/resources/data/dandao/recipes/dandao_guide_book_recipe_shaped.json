@@ -1,0 +1,12 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:spirit_stone"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "book": "dandao:dandao_guide_book"
+}

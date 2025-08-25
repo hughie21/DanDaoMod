@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "dandao:block/reactor_front",
+    "side": "dandao:block/reactor_side",
+    "top": "dandao:block/reactor_side"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.reactor.name",
+  "icon": "dandao:reactor",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.reactor.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:reactor"
+    }
+  ]
+}

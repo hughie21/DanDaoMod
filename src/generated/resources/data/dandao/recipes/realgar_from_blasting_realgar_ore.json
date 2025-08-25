@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.25,
+  "group": "realgar",
+  "ingredient": {
+    "item": "dandao:realgar_ore"
+  },
+  "result": "dandao:realgar"
+}

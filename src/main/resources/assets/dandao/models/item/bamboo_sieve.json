@@ -1,0 +1,80 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    32,
+    32
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        -6,
+        0,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        -5.75,
+        0,
+        0
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        20,
+        1,
+        0
+      ],
+      "translation": [
+        -9,
+        5,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        20,
+        0,
+        0
+      ],
+      "translation": [
+        -9.25,
+        5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        23,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -0.75,
+        0
+      ],
+      "scale": [
+        0.90039,
+        1,
+        0.9668
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -73.5,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -1
+      ]
+    }
+  },
+  "textures": {
+    "particle": "item/bamboo_sieve"
+  }
+}

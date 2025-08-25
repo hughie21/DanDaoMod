@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dan_embryo": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:dan_embryo"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:jie_du_dan_from_alchemy_furnace"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_dan_embryo",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:jie_du_dan_from_alchemy_furnace"
+    ]
+  },
+  "sends_telemetry_event": true
+}

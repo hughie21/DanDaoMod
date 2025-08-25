@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.sulfur.name",
+  "icon": "dandao:sulfur",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.sulfur.text"
+    }
+  ]
+}

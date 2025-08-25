@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "dandao:sun_flower_placed",
+  "step": "vegetal_decoration"
+}

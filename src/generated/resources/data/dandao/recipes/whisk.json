@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "dandao",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "  B",
+    " AC",
+    "A C"
+  ],
+  "result": {
+    "item": "dandao:whisk"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+// 1.20.1	2025-08-21T21:53:54.1178674	Tags for minecraft:item mod id dandao
+20311794dbd52cbe87d68522d28af6d67d76aa74 data/dandao/tags/items/cooling.json
+580258085d9445e7fa3fed31d265c8fe894416ad data/dandao/tags/items/cooling_v100.json
+b34b188f9b4f419fc0e7fff2f295f5f38938c72b data/dandao/tags/items/cooling_v20.json
+ea46464f9bec991cf82afc2727770912d3f54170 data/dandao/tags/items/cooling_v50.json
+da9dd518dfb34054196258dcc4aba2c9b38bf7ee data/dandao/tags/items/fuels.json
+1f09172d382744913ba72d008e980277ac3d5fdb data/dandao/tags/items/fuels_v1.json
+efe9e0caf089100a228c46379f3aa70d7f602ddc data/dandao/tags/items/fuels_v100.json
+9755cac7ab295bea9d1e54baaf42cfcf8fe11beb data/dandao/tags/items/fuels_v2.json
+50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/dandao/tags/items/fuels_v20.json
+bda8c0e774ce446b4ff7d59c120a4c4805be8ff9 data/dandao/tags/items/fuels_v4.json
+d1cec38b1d173c06bbbfd0f5289c0235de5db1d9 data/dandao/tags/items/fuels_v50.json
+8e87169bcf0dbfecd8ec25532915eaa39b55313f data/dandao/tags/items/fuels_v6.json
+150da1135a6d5d7b9cb1ec65250c0aceaa835dff data/dandao/tags/items/fuels_v80.json
+c8d98845cc1d52ee93d346ebea5f7137fb142c7a data/dandao/tags/items/herbs.json
+a88efd760a027094f449d54b40aded5b785b5cf5 data/dandao/tags/items/mineral.json
+d0fbb4cc5d93b98ad2124b01b6ddd4abffedbaf5 data/dandao/tags/items/support_potion.json
+84495907d1121f9c326b9efd484068d480cd7434 data/minecraft/tags/items/trimmable_armor.json

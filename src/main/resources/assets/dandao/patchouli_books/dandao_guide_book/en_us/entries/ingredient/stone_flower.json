@@ -1,0 +1,12 @@
+
+{
+  "name": "patchouli.dandao.book.entry.stone_flower.name",
+  "icon": "dandao:stone_flower",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.stone_flower.text"
+    }
+  ]
+}

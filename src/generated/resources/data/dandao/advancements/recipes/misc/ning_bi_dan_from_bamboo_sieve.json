@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_medicinal_powder": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:medicinal_powder"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:ning_bi_dan_from_bamboo_sieve"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_medicinal_powder",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:ning_bi_dan_from_bamboo_sieve"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.incense_burner.name",
+  "icon": "dandao:incense_burner",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.incense_burner.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:incense_burner"
+    }
+  ]
+}

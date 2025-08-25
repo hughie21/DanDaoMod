@@ -1,0 +1,18 @@
+{
+  "processor": "com.hughie.dandao.common.compat.patchouli.AlchemyFurnaceRecipeComponent",
+  "components": [
+    {
+      "type": "patchouli:text",
+      "text": "#property",
+      "x": 25,
+      "y": 52
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#output",
+      "framed": true,
+      "x": 50,
+      "y": 25
+    }
+  ]
+}

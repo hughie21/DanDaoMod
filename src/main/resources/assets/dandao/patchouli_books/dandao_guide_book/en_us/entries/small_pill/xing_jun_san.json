@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.xing_jun_san.name",
+  "icon": "dandao:xing_jun_san",
+  "category": "dandao:small_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.xing_jun_san.text"
+    },
+    {
+      "type": "bamboo_sieve_recipe",
+      "recipe_id": "dandao:xing_jun_san_from_bamboo_sieve"
+    }
+  ]
+}

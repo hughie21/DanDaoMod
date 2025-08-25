@@ -1,0 +1,20 @@
+{
+  "type": "dandao:bamboo_sieve_recipe",
+  "ingredients": [
+    {
+      "item": "dandao:medicinal_powder"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "medicinal_properties": {
+    "warm": {
+      "level": 3
+    }
+  },
+  "output": {
+    "count": 1,
+    "item": "dandao:wu_shi_san"
+  }
+}

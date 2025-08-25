@@ -1,0 +1,14 @@
+{
+  "type": "dandao:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/nether_bridge"
+    },
+    {
+      "chance": 0.25,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "dandao:sun_flower_seeds"
+}

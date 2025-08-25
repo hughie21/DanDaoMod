@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.duan_hun_san.name",
+  "icon": "dandao:duan_hun_san",
+  "category": "dandao:small_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.duan_hun_san.text"
+    },
+    {
+      "type": "bamboo_sieve_recipe",
+      "recipe_id": "dandao:duan_hun_san_from_bamboo_sieve"
+    }
+  ]
+}

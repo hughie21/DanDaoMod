@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_snow_ginseng": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:snow_ginseng"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:processed_snow_ginseng_from_smoking_snow_ginseng"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_snow_ginseng",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:processed_snow_ginseng_from_smoking_snow_ginseng"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 250,
+  "experience": 0.5,
+  "group": "asadin",
+  "ingredient": {
+    "item": "dandao:orpiment_powder"
+  },
+  "result": "dandao:asadin"
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ginseng": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:ginseng"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:processed_ginseng_from_smoking_ginseng"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ginseng",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:processed_ginseng_from_smoking_ginseng"
+    ]
+  },
+  "sends_telemetry_event": false
+}

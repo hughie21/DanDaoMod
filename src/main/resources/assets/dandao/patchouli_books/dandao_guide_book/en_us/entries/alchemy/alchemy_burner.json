@@ -1,0 +1,41 @@
+{
+  "name": "patchouli.dandao.book.entry.alchemy_furnace.name",
+  "icon": "dandao:alchemy_furnace_icon",
+  "category": "dandao:alchemy",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.alchemy_furnace.text0"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "patchouli.dandao.book.entry.alchemy_furnace.multiblock.name",
+      "multiblock": {
+        "pattern": [
+          ["AAA", "AAA", "AAA"],
+          ["ABA", "ACA", "AAA"],
+          ["AAA", "A0A", "AAA"]
+        ],
+        "mapping": {
+          "A": "minecraft:iron_block",
+          "B": "dandao:reactor[facing=west]",
+          "C": "minecraft:magma_block",
+          "0": "minecraft:iron_block"
+        }
+      },
+      "text": "patchouli.dandao.book.entry.alchemy_furnace.multiblock.text"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.alchemy_furnace.text1"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.alchemy_furnace.text2"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.alchemy_furnace.text3"
+    }
+  ]
+}

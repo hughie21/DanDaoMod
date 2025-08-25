@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.coal_powder.name",
+  "icon": "dandao:coal_powder",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.coal_powder.text"
+    }
+  ]
+}

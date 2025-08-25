@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "cullface": "down",
+          "texture": "#bottom"
+        },
+        "east": {
+          "texture": "#side"
+        },
+        "north": {
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "west": {
+          "texture": "#side"
+        }
+      },
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        4,
+        15
+      ]
+    }
+  ],
+  "textures": {
+    "bottom": "dandao:block/putuan_top",
+    "particle": "dandao:block/putuan_side",
+    "side": "dandao:block/putuan_side",
+    "top": "dandao:block/putuan_top"
+  }
+}

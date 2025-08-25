@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dandao",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "C C",
+    " C "
+  ],
+  "result": {
+    "item": "dandao:iron_mill"
+  },
+  "show_notification": true
+}

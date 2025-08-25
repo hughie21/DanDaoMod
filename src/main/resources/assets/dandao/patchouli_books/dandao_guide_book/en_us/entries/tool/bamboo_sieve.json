@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.bamboo_sieve.name",
+  "icon": "dandao:bamboo_sieve",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.bamboo_sieve.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:bamboo_sieve"
+    }
+  ]
+}

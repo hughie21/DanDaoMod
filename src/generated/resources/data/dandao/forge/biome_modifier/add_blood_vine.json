@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:lush_caves",
+  "features": "dandao:blood_vine_placed",
+  "step": "vegetal_decoration"
+}

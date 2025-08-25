@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dandao:block/deepslate_realgar_ore"
+  }
+}

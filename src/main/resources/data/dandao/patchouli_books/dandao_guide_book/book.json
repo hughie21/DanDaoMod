@@ -1,0 +1,12 @@
+{
+  "name": "patchouli.dandao.book.book_title",
+  "landing_text": "patchouli.dandao.book.landing_text",
+  "version": 1,
+  "creative_tab": "dandao:dan_dao_tab_tools",
+  "use_resource_pack": true,
+  "show_progress": false,
+  "i18n": true,
+  "macros": {
+    "$(effect)": "$(#000080)"
+  }
+}

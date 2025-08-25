@@ -1,0 +1,12 @@
+
+{
+  "name": "patchouli.dandao.book.entry.blood_vine.name",
+  "icon": "dandao:blood_vine_plant",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.blood_vine.text"
+    }
+  ]
+}

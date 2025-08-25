@@ -1,0 +1,11 @@
+{
+  "name": "patchouli.dandao.book.entry.asadin.name",
+  "icon": "dandao:asadin",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.asadin.text"
+    }
+  ]
+}

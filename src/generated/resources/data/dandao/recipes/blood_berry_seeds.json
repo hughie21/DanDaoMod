@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dandao:blood_berry"
+    }
+  ],
+  "result": {
+    "item": "dandao:blood_berry_seeds"
+  }
+}

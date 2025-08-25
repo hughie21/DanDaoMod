@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.iron_mill.name",
+  "icon": "dandao:iron_mill",
+  "category": "dandao:tool",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.iron_mill.text"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "dandao:iron_mill"
+    }
+  ]
+}

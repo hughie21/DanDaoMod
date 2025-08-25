@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.fu_ti_dan.name",
+  "icon": "dandao:fu_ti_dan",
+  "category": "dandao:large_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.fu_ti_dan.text"
+    },
+    {
+      "type": "alchemy_furnace_recipe",
+      "recipe_id": "dandao:fu_ti_dan_from_alchemy_furnace"
+    }
+  ]
+}

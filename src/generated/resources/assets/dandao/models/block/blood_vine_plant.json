@@ -1,0 +1,7 @@
+{
+  "parent": "dandao:block/cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "dandao:block/blood_vine_plant"
+  }
+}

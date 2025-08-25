@@ -1,0 +1,7 @@
+{
+  "parent": "dandao:block/flower_crop",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "crop": "dandao:block/sun_flower_stage1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:jagged_peaks",
+    "minecraft:stony_peaks"
+  ],
+  "features": "dandao:snow_lotus_placed",
+  "step": "vegetal_decoration"
+}

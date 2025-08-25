@@ -1,0 +1,12 @@
+
+{
+  "name": "patchouli.dandao.book.entry.snow_ginseng.name",
+  "icon": "dandao:snow_ginseng",
+  "category": "dandao:ingredient",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.snow_ginseng.text"
+    }
+  ]
+}

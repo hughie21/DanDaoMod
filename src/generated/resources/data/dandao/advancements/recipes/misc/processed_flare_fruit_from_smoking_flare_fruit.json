@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_flare_fruit": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dandao:flare_fruit"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dandao:processed_flare_fruit_from_smoking_flare_fruit"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_flare_fruit",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dandao:processed_flare_fruit_from_smoking_flare_fruit"
+    ]
+  },
+  "sends_telemetry_event": false
+}

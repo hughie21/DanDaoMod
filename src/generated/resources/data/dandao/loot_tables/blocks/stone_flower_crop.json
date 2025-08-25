@@ -1,0 +1,109 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "block": "dandao:stone_flower_crop",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "age": "3"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "enchantment": "minecraft:fortune",
+              "formula": "minecraft:binomial_with_bonus_count",
+              "function": "minecraft:apply_bonus",
+              "parameters": {
+                "extra": 1,
+                "probability": 0.5
+              }
+            }
+          ],
+          "name": "dandao:stone_flower"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:any_of",
+          "terms": [
+            {
+              "block": "dandao:stone_flower_crop",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "age": "3"
+              }
+            },
+            {
+              "block": "dandao:stone_flower_crop",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "age": "2"
+              }
+            }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 2.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "dandao:stone_flower_seed"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "block": "dandao:stone_flower_crop",
+            "condition": "minecraft:block_state_property",
+            "properties": {
+              "age": "3"
+            }
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dandao:stone_flower_seed"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "dandao:blocks/stone_flower_crop"
+}

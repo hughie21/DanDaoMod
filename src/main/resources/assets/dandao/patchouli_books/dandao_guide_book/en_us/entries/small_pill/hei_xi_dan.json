@@ -1,0 +1,15 @@
+{
+  "name": "patchouli.dandao.book.entry.hei_xi_dan.name",
+  "icon": "dandao:hei_xi_dan",
+  "category": "dandao:small_pill",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "patchouli.dandao.book.entry.hei_xi_dan.text"
+    },
+    {
+      "type": "bamboo_sieve_recipe",
+      "recipe_id": "dandao:hei_xi_dan_from_bamboo_sieve"
+    }
+  ]
+}
